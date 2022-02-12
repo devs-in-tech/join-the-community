@@ -1,7 +1,7 @@
 ---
 name: Be A Member
 about: Add me to the organization
-title: ''
+title: "[ADD ME TO THE ORGANIZATION]"
 labels: ''
 assignees: ''
 

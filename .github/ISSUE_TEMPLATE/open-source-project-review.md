@@ -14,5 +14,5 @@ Your project doesn't have to be hosted at GitHub, it can also be on GitLab or ot
 ```
 https://github.com/<your-username>/<project-name>
 ```
-You can also join our Discord community [here]()
+You can also join our Discord community [here](https://discord.gg/g7FmxB9uZp)
 Feel free to check out other cool repositories of the Open Source Community [here](https://github.com/opensourcecommunity-hub).
