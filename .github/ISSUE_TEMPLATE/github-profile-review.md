@@ -3,7 +3,7 @@ name: GitHub Profile Review
 about: Please review my GitHub profile. If this doesn’t look right, choose a different
   type.
 title: "[PROFILE REVIEW]"
-labels: ''
+labels: 'profile-review, review'
 assignees: ''
 
 ---
