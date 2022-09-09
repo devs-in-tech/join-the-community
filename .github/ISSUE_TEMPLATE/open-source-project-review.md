@@ -2,8 +2,8 @@
 name: Open Source Project Review
 about: Please review my project on a livestream. If this doesn’t look right, choose
   a different type.
-title: "[REVIEW]"
-labels: review
+title: "[PROJECT REVIEW]"
+labels: 'project-review, review'
 assignees: ''
 
 ---
