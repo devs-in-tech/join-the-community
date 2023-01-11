@@ -16,4 +16,4 @@ assignees: ''
 > I want to join because 
 
 You can also join our Discord community [here](https://discord.gg/g7FmxB9uZp)
-Feel free to check out other cool repositories of the Open Source Community [here](https://github.com/opensourcecommunity-hub).
+Feel free to check out other cool repositories of the DevsInTech Community [here](https://github.com/devs-in-tech).
